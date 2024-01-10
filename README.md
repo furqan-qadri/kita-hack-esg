@@ -1,5 +1,4 @@
 
-Can you hackkkk itttt? 
 Furqan-Qadri-
 
 
