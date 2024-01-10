@@ -1,0 +1,51 @@
+.hero-1{
+    color: #000;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 59.5px; /* 119% */
+flex-shrink: 0;
+}
+
+.hero-2{
+    color: #000;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 39px; /* 156% */
+}
+
+.cta-button{
+    border-radius: 40px;
+background: #47D95D;
+display: flex;
+width: 216px;
+height: 49px;
+padding: 16px 32px;
+align-items: flex-start;
+gap: 10px;
+flex-shrink: 0;
+}
+
+.cta-span{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+flex: 1 0 0;
+align-self: stretch;
+color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 140%; /* 28px */
+}
+
+
+
+.hero-left{
+max-width: 484px;
+}
